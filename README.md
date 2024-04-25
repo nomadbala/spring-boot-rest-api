@@ -119,3 +119,11 @@ DELETE /api/v1/users/delete_user/{email}
 ```
 GET /api/v1/users/{login}
 ```
+
+<hr>
+# API Documentation
+The API documentation is available at http://localhost:8080/swagger-ui.html after running the application.
+
+<hr>
+# License
+TODO
