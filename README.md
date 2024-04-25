@@ -7,6 +7,8 @@ This is Spring boot application for my interview. This project is an example of 
 * Maven
 * Docker (optional)
 
+<hr>
+
 1. Clone the repository to your local computer:
 ```
 git clone https://github.com/nomadbala/spring_for_interview.git
