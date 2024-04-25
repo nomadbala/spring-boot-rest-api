@@ -126,4 +126,4 @@ The API documentation is available at http://localhost:8080/swagger-ui.html afte
 
 <hr>
 # License
-TODO
+This project is licensed under the APGL-3.0 license - see the LICENSE file for details.
