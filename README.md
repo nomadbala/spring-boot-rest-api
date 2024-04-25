@@ -31,10 +31,12 @@ mvn spring-boot:run
 <hr>
 
 # Endpoints
+
 <hr>
+
 ## Authentication controller
 ```
-POST /api/v1/auth/register
+POST /api/v1/auth/
 ```
 
 ## User authentication
