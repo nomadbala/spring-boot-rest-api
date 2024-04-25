@@ -2,7 +2,11 @@ package com.example.demo.Model;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.apache.catalina.core.ApplicationContext;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Component;
 
 @Entity
 @Getter
