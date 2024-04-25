@@ -34,7 +34,7 @@ mvn spring-boot:run
 <hr>
 ## Authentication controller
 ```
-/api/v1/auth
+POST /api/v1/auth/register
 ```
 
 ## User authentication
