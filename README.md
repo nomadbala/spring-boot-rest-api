@@ -11,24 +11,13 @@ This is Spring boot application for my interview. This project is an example of 
 
 1. Clone the repository to your local computer:
 ```
-git clone https://github.com/nomadbala/spring_for_interview.git
+git clone https://github.com/nomadbala/spring-boot-rest-api.git
 ```
 
-2. Go to the project directory:
+2. Build and run the project using Docker:
 ```
-  cd spring_for_interview
+docker-compose up
 ```
-
-3. Build the project using Maven:
-```
-mvn clean install
-```
-
-4. Run project
-```
-mvn spring-boot:run
-```
-<hr>
 
 # Endpoints
 
