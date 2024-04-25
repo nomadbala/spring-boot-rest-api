@@ -28,10 +28,10 @@ mvn clean install
 ```
 mvn spring-boot:run
 ```
-
+<hr>
 
 # Endpoints
-# ----------
+<hr>
 ## Authentication controller
 ```
 /api/v1/auth
@@ -47,7 +47,7 @@ POST /api/v1/auth/register
 POST /api/v1/auth/login
 ```
 
-# ----------
+<hr>
 
 ## News controller
 ```
@@ -59,7 +59,7 @@ POST /api/v1/auth/login
 GET /api/v1/news
 ```
 
-# ----------
+<hr>
 
 ## Request controller
 ```
@@ -91,7 +91,7 @@ PUT /api/v1/requests/update_request
 GET /api/v1/requests/{id}
 ```
 
-# ----------
+<hr>
 
 ## User controller
 ```
